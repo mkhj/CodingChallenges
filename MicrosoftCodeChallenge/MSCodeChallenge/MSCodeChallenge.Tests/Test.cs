@@ -6,6 +6,20 @@ namespace MSCodeChallenge.Tests
 	public class Test
 	{
 		[Test()]
+		public void Calculator()
+		{
+			var challenges = new Questions();
+
+			Assert.IsTrue(challenges.Calculator(2, 2, '+') == 4);
+
+			Assert.IsTrue(challenges.Calculator(2, 2, '-') == 0);
+
+			Assert.IsTrue(challenges.Calculator(2, 2, '/') == 1);
+
+			Assert.IsTrue(challenges.Calculator(2, 3, '*') == 6);
+		}
+
+		[Test()]
 		public void Factorial()
 		{
 			var challenges = new Questions();

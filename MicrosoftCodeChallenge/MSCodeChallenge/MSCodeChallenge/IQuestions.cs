@@ -82,6 +82,14 @@ namespace MSCodeChallenge
 		/// <param name="text"></param>
 		/// <returns></returns>
 		int WordCount(String text);
+
+		/// <summary>
+		/// Calculate the result based on the operator (e.g +-/*)
+		/// </summary>
+		/// <param name="operand1">Operand1.</param>
+		/// <param name="operand2">Operand2.</param>
+		/// <param name="operate">Operate.</param>
+		int Calculator(int operand1, int operand2, char operate);
 	}
 }
 

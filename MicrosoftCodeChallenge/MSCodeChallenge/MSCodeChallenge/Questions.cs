@@ -6,6 +6,39 @@ namespace MSCodeChallenge
 	public class Questions : IQuestions
 	{
 		/// <summary>
+		/// Calculate the result based on the operator (e.g +-/*)
+		/// </summary>
+		/// <param name="operand1">Operand1.</param>
+		/// <param name="operand2">Operand2.</param>
+		/// <param name="operate">Operate.</param>
+		public int Calculator(int operand1, int operand2, char operate)
+		{
+			var result = 0;
+
+			switch (operate)
+			{
+				case '+':
+					result = operand1 + operand2;
+					break;
+				case '-':
+					result = operand1 - operand2;
+					break;
+				case '/':
+					result = operand1 / operand2;
+					break;
+				case '*':
+					result = operand1 * operand2;
+					break;
+				default:
+					// Do nothing;
+					break;
+			}
+
+
+			return result;
+		}
+
+		/// <summary>
 		/// Findet Factorial af tallene op til og med number f.eks. Input: 5 Output: 120 
 		/// </summary>
 		/// <param name="number"></param>
