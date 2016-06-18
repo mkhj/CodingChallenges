@@ -2,7 +2,12 @@
 
 namespace MSCodeChallenge
 {
-	
+
+	/// <summary>
+	/// A list of some of the potential questions you could be presented with.
+	/// You have 10-15 min so solve as many as possible.
+	/// You are not allow to use any libraries etc.
+	/// </summary>
 	public class Questions : IQuestions
 	{
 		/// <summary>
