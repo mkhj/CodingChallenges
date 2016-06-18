@@ -14,7 +14,15 @@ namespace csharp.tests
 			Assert.IsFalse(Q1_1.IsUnique("hello"));
 
 			Assert.IsFalse(Q1_1.IsUnique("helLo"));
+		}
 
+		[Test()]
+		public void Run_Q1_2()
+		{
+			Assert.IsFalse("apple" == Q1_2.Reverse("apple"));
+
+			Assert.IsTrue("elppa" == Q1_2.Reverse("apple"));
+			               
 		}
 	}
 }
