@@ -1,0 +1,5 @@
+/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp/bin/Debug/csharp.dll.mdb
+/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp/bin/Debug/csharp.dll
+/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp/obj/Debug/csharp.dll
+/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp/obj/Debug/csharp.dll.mdb
