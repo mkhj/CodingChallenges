@@ -1,4 +1,40 @@
 ﻿<Properties StartupItem="csharp.tests/csharp.tests.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp.tests/Chapter1Tester.cs">
+    <Files>
+      <File FileName="csharp/MyClass.cs" Line="1" Column="1" />
+      <File FileName="csharp.tests/Test.cs" Line="9" Column="3" />
+      <File FileName="csharp/Chapter 1/Q1-1.cs" Line="7" Column="80" />
+      <File FileName="csharp.tests/Chapter1Tester.cs" Line="44" Column="46" />
+      <File FileName="csharp/Chapter 1/Q1-2.cs" Line="5" Column="46" />
+      <File FileName="csharp/Chapter 1/Q1-3.cs" Line="10" Column="1" />
+      <File FileName="csharp/Chapter 1/Q1-4.cs" Line="20" Column="50" />
+      <File FileName="csharp/Chapter 1/Q1-5.cs" Line="11" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="csharp" expanded="True">
+            <Node name="csharp.tests" expanded="True">
+              <Node name="csharp" expanded="True">
+                <Node name="tests" expanded="True">
+                  <Node name="Chapter1Tester" expanded="True">
+                    <Node name="Run_Q1_2" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/markjensen/GitHub/CodingChallenges/CodingInterviewQuestions/csharp/csharp.tests/Chapter1Tester.cs" line="24" column="52" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.csharp.tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.csharp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
