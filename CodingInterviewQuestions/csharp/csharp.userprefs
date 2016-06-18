@@ -1,4 +1,0 @@
-﻿<Properties StartupItem="csharp.tests/csharp.tests.csproj">
-  <MonoDevelop.Ide.ItemProperties.csharp.tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.csharp PreferredExecutionTarget="MonoDevelop.Default" />
-</Properties>

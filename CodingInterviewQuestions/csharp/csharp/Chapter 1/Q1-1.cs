@@ -3,6 +3,9 @@ using System.Collections;
 
 namespace csharp
 {
+	/// <summary>
+	/// Implement an algorithm to determine if a string has all unique characters.
+	/// </summary>
 	public class Q1_1
 	{
 		public static bool IsUnique(string word)

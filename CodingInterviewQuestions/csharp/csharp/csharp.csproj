@@ -34,6 +34,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Chapter 1\Q1-1.cs" />
     <Compile Include="Chapter 1\Q1-2.cs" />
+    <Compile Include="Chapter 1\Q1-3.cs" />
+    <Compile Include="Chapter 1\Q1-4.cs" />
+    <Compile Include="Chapter 1\Q1-5.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter 1\" />

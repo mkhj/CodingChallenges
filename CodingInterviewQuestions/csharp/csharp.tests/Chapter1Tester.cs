@@ -24,6 +24,25 @@ namespace csharp.tests
 			Assert.IsTrue("elppa" == Q1_2.Reverse("apple"));
 			               
 		}
+
+		[Test()]
+		public void Run_Q1_4()
+		{
+			Assert.IsFalse(Q1_4.IsAnagram("hello", "llloh"));
+
+			Assert.IsTrue(Q1_4.IsAnagram("apple", "papel"));
+
+			Assert.IsTrue(Q1_4.IsAnagram("carrot", "tarroc"));
+
+		}
+
+		[Test()]
+		public void Run_Q1_5()
+		{
+			var input = "abc d e f";
+
+			Assert.IsTrue(Q1_5.ReplaceSpaces(input) == "abc%20d%20e%20f");
+		}
 	}
 }
 
