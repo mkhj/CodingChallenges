@@ -1,0 +1,5 @@
+/Users/markjensen/GitHub/CodingChallenges/MicrosoftCodeChallenge/MSCodeChallenge/MSCodeChallenge/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/markjensen/GitHub/CodingChallenges/MicrosoftCodeChallenge/MSCodeChallenge/MSCodeChallenge/bin/Debug/MSCodeChallenge.dll.mdb
+/Users/markjensen/GitHub/CodingChallenges/MicrosoftCodeChallenge/MSCodeChallenge/MSCodeChallenge/bin/Debug/MSCodeChallenge.dll
+/Users/markjensen/GitHub/CodingChallenges/MicrosoftCodeChallenge/MSCodeChallenge/MSCodeChallenge/obj/Debug/MSCodeChallenge.dll
+/Users/markjensen/GitHub/CodingChallenges/MicrosoftCodeChallenge/MSCodeChallenge/MSCodeChallenge/obj/Debug/MSCodeChallenge.dll.mdb

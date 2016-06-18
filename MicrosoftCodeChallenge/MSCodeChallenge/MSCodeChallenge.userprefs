@@ -1,1 +1,30 @@
-﻿<Properties StartupItem="MSCodeChallenge/MSCodeChallenge.csproj" />
+﻿<Properties StartupItem="MSCodeChallenge/MSCodeChallenge.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MSCodeChallenge.Tests/Test.cs">
+    <Files>
+      <File FileName="MSCodeChallenge/Questions.cs" Line="15" Column="24" />
+      <File FileName="MSCodeChallenge/IQuestions.cs" Line="71" Column="8" />
+      <File FileName="MSCodeChallenge.Tests/Test.cs" Line="13" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MSCodeChallenge" expanded="True">
+            <Node name="MSCodeChallenge.Tests" expanded="True">
+              <Node name="MSCodeChallenge" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Test" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MSCodeChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
